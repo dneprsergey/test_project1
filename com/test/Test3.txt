@@ -1,0 +1,28 @@
+package com.test1;
+
+111
+/**
+ * Comment
+ */
+public class Test extends StoreItem {
+    private String inventoryStatus;
+
+    /**
+     * Gets the inventory status.
+     * 
+     * @return the inventory status
+     */
+    public String getInventoryStatus() {
+        return inventoryStatus;
+    }
+
+    /**
+     * Sets the inventory status.
+     * 
+     * @param inventoryStatus
+     *            the new inventory status
+     */
+    public void setInventoryStatus(final String inventoryStatus) {
+        this.inventoryStatus = inventoryStatus;
+    }
+}
