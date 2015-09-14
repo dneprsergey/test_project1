@@ -7,7 +7,7 @@ package com.test1;
 public class Test extends StoreItem {
     private String inventoryStatus;
 
-    // new in Test4
+    /* TEST!!!!!!!!!!!!!!!!!*/
 
     /**
      * Gets the inventory status.
