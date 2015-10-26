@@ -1,3 +1,7 @@
 AAA
+<<<<<<< HEAD
 BBBBBBBBBBBB
+=======
+XXXX
+>>>>>>> a35212e7ccaec1360c0cd622a6b19d3fcba2c26c
 CCC
